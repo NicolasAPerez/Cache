@@ -1,0 +1,5 @@
+The program is a C++ program made in CLion.
+Trace files are read from wherever the .exe is made, in this case in the cmake-build-debug folder.
+Once complied and run, follow the instructions in the console.
+Once all three Cache types are made, it will show all the cache hit rates together.
+Caches cannot be remade once made.

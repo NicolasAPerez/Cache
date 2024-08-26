@@ -1,0 +1,4 @@
+MinGW not found at: C:\Program Files (x86)\mingw-w64\i686-8.1.0-posix-dwarf-rt_v6-rev0\mingw32 Configure Disable profile
+
+Cannot get compiler information:
+	Cannot run program "C:\Program Files (x86)\mingw-w64\i686-8.1.0-posix-dwarf-rt_v6-rev0\mingw32\bin\g++.exe" (in directory "C:\Users\nicop\CLionProjects\Cache\cmake-build-debug"): CreateProcess error=2, The system cannot find the file specified
